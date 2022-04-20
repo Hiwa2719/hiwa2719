@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="30px">, I'm Hiwa</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<p>I am <strong>A passionate Backend developer</strong> and currently working on my on projects. but i love to particapte 
+in others projects. I do <strong>Python</strong> and <strong>Django</strong> and also some frontend languages and libraries.
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hiwa2719](https://github.com/Hiwa2719)
 
