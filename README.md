@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![My image](), I'm Hiwa</h1>
+<h1 align="center">Hi ![My image](wave.gif), I'm Hiwa</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hiwa2719](https://github.com/Hiwa2719)
